@@ -23,3 +23,10 @@ MongoDB serves as the foundational database, accommodating diverse data types in
 
 #Demonstration screenshots
 ![image](https://github.com/sriya158/VangaSriya-20NN1A05B5/assets/109154965/afd1af2a-43bc-4b64-bec2-8744e6fcea8d)
+![image](https://github.com/sriya158/VangaSriya-20NN1A05B5/assets/109154965/918d19c7-5ec6-4387-9fd5-ec6c1ba27665)
+![image](https://github.com/sriya158/VangaSriya-20NN1A05B5/assets/109154965/fce565fe-5d37-475a-a94a-5bc1100aaceb)
+![image](https://github.com/sriya158/VangaSriya-20NN1A05B5/assets/109154965/c2a7c843-cd2a-4177-a2c2-c354cc223aec)
+![image](https://github.com/sriya158/VangaSriya-20NN1A05B5/assets/109154965/e838c7b3-f890-424d-862e-b82b11b3e05b)
+
+
+
