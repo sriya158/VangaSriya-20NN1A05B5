@@ -22,3 +22,4 @@ Database:
 MongoDB serves as the foundational database, accommodating diverse data types including user profiles, expense entries, and categories. Mongoose ORM facilitates schema definition and validation, ensuring data integrity and consistency.
 
 #Demonstration screenshots
+![image](https://github.com/sriya158/VangaSriya-20NN1A05B5/assets/109154965/afd1af2a-43bc-4b64-bec2-8744e6fcea8d)
